@@ -17,7 +17,7 @@ Proven experience supporting **production telecom applications** with high avail
 
 ---
 
-## Core Skills (ATS Optimized)
+## Core Skills
 
 **Cloud Platforms:** AWS, Azure, Google Cloud  
 **AWS Services:** EC2, S3, VPC, EKS, ECS, RDS, IAM, CloudWatch, Lambda, ELB, Route53  
