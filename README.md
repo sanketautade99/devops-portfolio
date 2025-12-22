@@ -4,7 +4,7 @@
 
 📍 Pune, India  
 📧 sanketautade123@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sanketautade  
+🔗 LinkedIn: [https://www.linkedin.com/in/sanketautade ](https://www.linkedin.com/in/sanket-autade-68a7ab1a5/) 
 🔗 GitHub: https://github.com/sanketautade99  
 
 ---
