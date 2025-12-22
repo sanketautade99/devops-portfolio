@@ -52,7 +52,7 @@ Proven experience supporting **production telecom applications** with high avail
 - Google Professional Cloud Architect
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 
-📂 [View Certificates](./certificates)
+📂 [View Certificates](./GoogleProfessionalCloudArchitect20251212-31-jd75iq.pdf)
 
 ---
 
