@@ -58,7 +58,7 @@ Proven experience supporting **production telecom applications** with high avail
 
 ## Resume
 
-📄 [Download Resume](./resume/Sanket_Autade_DevOps_4yrs.pdf)
+📄 [Download Resume](./Sanket_Autade_DevOps_4yrs.pdf)
 
 ---
 
