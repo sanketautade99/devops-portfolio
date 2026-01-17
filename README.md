@@ -86,3 +86,14 @@ Kubernetes & Container Platforms
 CI/CD & Automation
 Site Reliability Engineering (SRE)
 Cloud Security & Scalability
+
+## 🏆 Awards
+
+- [Innovator of the Month – Jan 2026](https://portfolio.example.com/innovator-jan2026)  
+  *Recognized for driving innovative automation solutions in AWS/Terraform, improving efficiency and reliability.*
+
+- [Bravo Award – Tech Mahindra](https://portfolio.example.com/bravo-award)  
+  *Received for outstanding performance and contribution in AT&T Project DevOps implementation.*
+
+- [Pat on the Back Award – Tech Mahindra](https://portfolio.example.com/pat-on-the-back)  
+  *Honored for exceptional work in Source Code Management and CI/CD pipeline optimization.*
