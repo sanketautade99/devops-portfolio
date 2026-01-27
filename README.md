@@ -1,7 +1,7 @@
 # devops-portfolio
 
 # 🚀 Sanket Autade – DevOps Engineer (AWS | Kubernetes | CI/CD)
-
+(Serving notice Period, LWD – 6th Feb 2026, Availability: Immediate, from 9th Feb 2026)
 📍 Pune, India
 📧 sanketautade123@gmail.com
 📞 +91 8805149325
